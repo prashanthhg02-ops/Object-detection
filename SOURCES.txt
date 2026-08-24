@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+object_detection/__init__.py
+object_detection/detector.py
+object_detection_aiml.egg-info/PKG-INFO
+object_detection_aiml.egg-info/SOURCES.txt
+object_detection_aiml.egg-info/dependency_links.txt
+object_detection_aiml.egg-info/entry_points.txt
+object_detection_aiml.egg-info/requires.txt
+object_detection_aiml.egg-info/top_level.txt
+tests/test_detector.py

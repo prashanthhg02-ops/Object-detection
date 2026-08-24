@@ -1,10 +1,8 @@
-# Object-detection
-Object Detection is a computer vision technique used to identify and locate objects in an image or video.
+# pytest cache directory #
 
-It detects what objects are present and determines where they are located, usually using bounding boxes.
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
 
-Object detection combines image classification and object localization to recognize objects such as people, cars, animals, and vehicles.
+**Do not** commit this to version control.
 
-It uses Artificial Intelligence and Machine Learning to automatically detect objects from images or video streams.
-
-Example: In a road image, an object detection system can identify cars, buses, pedestrians, and traffic signs and draw boxes around them.
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
